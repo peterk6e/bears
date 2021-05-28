@@ -9,3 +9,4 @@ voila
 ipywidgets
 pandas
 ipyvuetify
+IPython
